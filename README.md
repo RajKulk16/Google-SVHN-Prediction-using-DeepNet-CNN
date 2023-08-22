@@ -11,9 +11,9 @@
    b. Preprocessed the data by reducing channels and normalization.<br>
    c. Developed Custom CNN model using Keras tuner.<br>
    d. Parameter Information -<br>
-         &nbsp; Total params: 15,698<br>
-         &nbsp; Trainable params: 15,650<br>
-         &nbsp; Non-trainable params: 48 (usage of Batch Normalization)<br>
+      i. Total params: 15,698<br>
+      ii. Trainable params: 15,650<br>
+      iii. Non-trainable params: 48 (usage of Batch Normalization)<br>
 
 5. Link to the Dataset - http://ufldl.stanford.edu/housenumbers/
    

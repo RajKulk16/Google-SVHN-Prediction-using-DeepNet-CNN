@@ -4,7 +4,7 @@ Street View House Numbers (SVHN) is a real-world image dataset obtained from hou
 
 ## Key Achievement
 
-- Implemented Custom CNN Model with Keras Tuner to tune hyperparameters.
+- Implemented Custom (DeepNet) CNN Model with Keras Tuner to tune hyperparameters.
 - Achieved Model Accuracy: 81.15%
 
 ## Process Overview

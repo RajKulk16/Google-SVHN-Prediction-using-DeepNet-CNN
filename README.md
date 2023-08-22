@@ -2,7 +2,7 @@
 
 Street View House Numbers (SVHN) is a real-world image dataset obtained from house numbers in Google Street View images.
 
-## Key Achievements
+## Key Achievement
 
 - Implemented Custom CNN Model with Keras Tuner to tune hyperparameters.
 - Achieved Model Accuracy: 81.15%

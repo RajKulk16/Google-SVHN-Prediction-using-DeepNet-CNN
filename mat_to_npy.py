@@ -4,13 +4,13 @@ import scipy.io
 import os
 
 
-mat = scipy.io.loadmat('C:/Users/rsk13/Desktop/Code/Projects/DL Projects/House Street/DO NOT UPLOAD/Cropped/train_32x32.mat')
+mat = scipy.io.loadmat('C:/Users/rsk13/Projects/train_32x32.mat') # path where file saved
 Xtrain = mat['X']
 ytrain = mat['y']
 
 ytrain = np.where(ytrain==10,0,ytrain)
 
-test_mat = scipy.io.loadmat('C:/Users/rsk13/Desktop/Code/Projects/DL Projects/House Street/DO NOT UPLOAD/Cropped/test_32x32.mat')
+test_mat = scipy.io.loadmat('C:/Users/rsk13/Projects/test_32x32.mat') # path where file saved
 Xtest = test_mat['X']
 ytest = test_mat['y']
 

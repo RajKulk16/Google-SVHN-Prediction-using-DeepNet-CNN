@@ -10,7 +10,7 @@
    a. Converted '.mat' files to numpy for further assessment and usage using scipy.<br>
    b. Preprocessed the data by reducing channels and normalization.<br>
    c. Developed Custom CNN model using Keras tuner.<br>
-   d. Parameter Information -<br>
+   d. Parameter Information -<br><br>
       i. Total params: 15,698<br>
       ii. Trainable params: 15,650<br>
       iii. Non-trainable params: 48 (usage of Batch Normalization)<br>

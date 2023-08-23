@@ -4,7 +4,7 @@ Street View House Numbers (SVHN) is a real-world image dataset obtained from hou
 
 ## Key Achievement
 
-- Implemented Custom (DeepNet) CNN Model with Keras Tuner and LeNet-5 architecture model for comparison.
+- Implemented Custom Deep CNN Model with Keras Tuner and LeNet-5 architecture model for comparison.
 - Achieved Model Accuracy:
   - CNN = 81.15% [SVHN - only CNN](https://github.com/RajKulk16/Google-SVHN-Prediction-using-DeepNet-CNN/blob/main/SVHN.ipynb)
   - LeNet-5 = 80.30% [LeNet-5 vs CNN](https://github.com/RajKulk16/Google-SVHN-Prediction-using-DeepNet-CNN/blob/main/Custom%20CNN%20vs%20LeNet-5.ipynb)

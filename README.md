@@ -1,4 +1,4 @@
-# Google SVHN Prediction using LeNet-5 and DeepNet CNN
+# Google SVHN Prediction using LeNet-5 and Deep CNN
 
 Street View House Numbers (SVHN) is a real-world image dataset obtained from house numbers in Google Street View images.
 

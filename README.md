@@ -1,6 +1,11 @@
-# Google SVHN Prediction using LeNet-5 and Deep CNN
+# Google SVHN Prediction using Custom (Tailored) CNN and Pre-trained models
 
 Street View House Numbers (SVHN) is a real-world image dataset obtained from house numbers in Google Street View images.
+
+## Used Pre-trained models 
+
+1. LeNet-5
+2. Vgg16
 
 ## Key Achievement
 
@@ -8,6 +13,7 @@ Street View House Numbers (SVHN) is a real-world image dataset obtained from hou
 - Achieved Model Accuracy:
   - CNN = 81.15% [SVHN - only CNN](https://github.com/RajKulk16/Google-SVHN-Prediction-using-DeepNet-CNN/blob/main/SVHN.ipynb)
   - LeNet-5 = 80.30% [LeNet-5 vs CNN](https://github.com/RajKulk16/Google-SVHN-Prediction-using-DeepNet-CNN/blob/main/Custom%20CNN%20vs%20LeNet-5.ipynb)
+  - Vgg16 - 
 
 ## Process Overview
 
@@ -23,9 +29,13 @@ Street View House Numbers (SVHN) is a real-world image dataset obtained from hou
 
 3. **LeNet-5 Architecture:**
    - Implemented the traditional LeNet-5 alongside CNN to compare the base results of the both.
+  
+4. **Vgg16**
+   - Achieved accuracy of ~42%
 
 4. **Results:**
-   - Although tuned-custom made CNN achieved higher results when compared to LeNet, LeNet showed stable increase and decrease in accuracy and loss respectively in comparison to CNN. 
+   - Although tuned-custom made CNN achieved higher results when compared to LeNet, LeNet showed stable increase and decrease in accuracy and loss respectively in comparison to CNN.
+   - Vgg16 can be applied to more complex datasets. 
 
 5. **Dataset Link:**
    - [Download SVHN Dataset](http://ufldl.stanford.edu/housenumbers/)

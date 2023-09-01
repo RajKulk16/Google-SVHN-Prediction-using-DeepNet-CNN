@@ -13,7 +13,7 @@ Street View House Numbers (SVHN) is a real-world image dataset obtained from hou
 - Achieved Model Accuracy:
   - CNN = 81.15% [SVHN - only CNN](https://github.com/RajKulk16/Google-SVHN-Prediction-using-DeepNet-CNN/blob/main/SVHN.ipynb)
   - LeNet-5 = 80.30% [LeNet-5 vs CNN](https://github.com/RajKulk16/Google-SVHN-Prediction-using-DeepNet-CNN/blob/main/Custom%20CNN%20vs%20LeNet-5.ipynb)
-  - Vgg16 - 
+  - Vgg16 = ~42% [Vgg16](https://github.com/RajKulk16/Google-SVHN-Prediction-with-CNN-and-Transfer-Learning/blob/main/Vgg16.ipynb)
 
 ## Process Overview
 

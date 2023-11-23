@@ -4,7 +4,7 @@ Street View House Numbers (SVHN) is a real-world image dataset obtained from hou
 
 ## Used Pre-trained models 
 
-1. LeNet-5
+1. LeNet-5 (custom made network - but same features)
 2. Vgg16
 
 ## Key Achievement
